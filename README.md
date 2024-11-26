@@ -1,6 +1,6 @@
 # ArbHunter
 
-ArbHunter is a powerful bot that analyzes live in-game and pre live odds to identify arbitrage opportunities. By leveraging real-time data scraping, machine learning, and data analytics, ArbHunter empowers users to find guaranteed profit scenarios in sports betting. My goal is to take the the power away from the house and put it in the hand of the people! :)
+ArbHunter is a powerful bot that analyzes pre live odds to identify arbitrage opportunities. By leveraging real-time data scraping, machine learning, and data analytics, ArbHunter empowers users to find guaranteed profit scenarios in sports betting. My goal is to take the the power away from the house and put it in the hand of the people! :)
 
 Features:
 
